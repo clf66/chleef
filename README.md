@@ -1,2 +1,0 @@
-# chleef
-Just ordinary repository
